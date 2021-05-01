@@ -13,4 +13,4 @@ THAT RESULT IN CONNECTION WITH THE SOWTWARE OR DATA.
 The Chronos License may be used, copied, published, and   distributed commercially and privately.  
 Copyright (c) 2021, Team Chronos, written by DGC 08 (digc0820 [at] gmail [dot] com) 
 ## Additional license information
-Author / s and (optional) contact informations:  
+Author/-s and (optional) contact informations:  
