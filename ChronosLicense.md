@@ -10,10 +10,10 @@ DAMAGES, MALICOUS MODIFICATIONS OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONT
 THAT RESULT IN CONNECTION WITH THE SOWTWARE OR DATA.  
 
 ## Copyright of the Chronos license
-The Chronos License may be used, copied, published, and distributed commercially and privately. There are no permissions (except Team Chronos)
-to rename or modify the license.  
+The Chronos License is under the [Chronos License (Limited)](https://github.com/Team-Chronos/chronos-data/blob/main/ChronosLicenseLimited.md)
 
+### Additional license informations
 Copyright (c) 2021, Team Chronos, written by DGC 08 (digc0820 [at] gmail [dot] com), The Chronos License.  
 
-## Additional license information
+## Additional license informations
 The Author/-s, the Name of the Data/software and contact informations:  
